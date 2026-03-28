@@ -141,7 +141,7 @@ class _WeightCalculatorPageState extends State<WeightCalculatorPage> {
   final TextEditingController _amountController = TextEditingController();
   final TextEditingController _rateController = TextEditingController();
   int _selectedMaking = 13;
-  bool _gstEnabled = false;
+  bool _gstEnabled = true;
   StreamSubscription<DocumentSnapshot<Map<String, dynamic>>>? _rateSubscription;
   bool _isRateLoading = true;
   String? _rateErrorText;
