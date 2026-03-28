@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "548456755056",
+    "project_id": "shubham-jewellers-1976",
+    "storage_bucket": "shubham-jewellers-1976.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548456755056:android:411a01d9208bbaddf9a9b5",
+        "android_client_info": {
+          "package_name": "com.example.shubham_jewellers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoR4bdnNAFxCPFxwNj6sTSsU6sc2m5e6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548456755056:android:9ee2b71afad4e753f9a9b5",
+        "android_client_info": {
+          "package_name": "com.example.weight_calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoR4bdnNAFxCPFxwNj6sTSsU6sc2m5e6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
