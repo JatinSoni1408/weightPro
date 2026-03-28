@@ -1,6 +1,6 @@
 {
-    "name": "weight_calculator",
-    "short_name": "weight_calculator",
+    "name": "weightPro",
+    "short_name": "weightPro",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

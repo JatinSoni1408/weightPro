@@ -82,7 +82,7 @@ class WeightCalculatorApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Weight Calculator',
+      title: 'weightPro',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
@@ -284,7 +284,7 @@ class _WeightCalculatorPageState extends State<WeightCalculatorPage> {
         elevation: 0,
         centerTitle: true,
         backgroundColor: Colors.transparent,
-        title: const Text('Weight Calculator'),
+        title: const Text('weightPro'),
       ),
       body: SafeArea(
         child: Center(
