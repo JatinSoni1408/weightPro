@@ -280,12 +280,6 @@ class _WeightCalculatorPageState extends State<WeightCalculatorPage> {
         _isRateLoading ? 'Loading latest 22K rate from Firestore...' : null;
 
     return Scaffold(
-      appBar: AppBar(
-        elevation: 0,
-        centerTitle: true,
-        backgroundColor: Colors.transparent,
-        title: const Text('weightPro'),
-      ),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(
